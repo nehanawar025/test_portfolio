@@ -1,0 +1,19 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+/* Navbar */
+
+.navbar-nav{
+    font-size: 20px;
+}
+
+.progress{
+    height: 30px;
+    border-radius: 50px;
+    transition: all 0.45s ease;
+}
+.progress:hover{
+    transform: scale(1.1);
+}
